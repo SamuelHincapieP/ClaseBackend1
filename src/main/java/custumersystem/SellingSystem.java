@@ -90,7 +90,7 @@ public class SellingSystem {
             state = false;
 
         } else {
-            System.out.println("Id no encontrado");
+            System.out.println("Id" + id + "no encontrado");
         }
     }
 }
